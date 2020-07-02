@@ -1,44 +1,44 @@
 # Skills 
 
- Programming 
+### Programming 
 * Java 
     * Java 1.8/8 used in Android apps and Spring Boot server applications.
     * Java 11 used in Java desktop applications.
 * SQL 
 
-## Markup 
+### Markup 
 * XML 
 * Markdown
 
-## Libraries 
+### Libraries 
 
-### Platform frameworks 
+#### Platform frameworks 
 * Java standard library 
 * Spring Boot(incl. Spring MVC, Spring Data)
 * Android platform 
 
-### Object-relational mapping (ORM)
+#### Object-relational mapping (ORM)
 * Room (for SQLite on Android)
 * Hibernate (JPA implementation)
 
-### Asynchronous processing 
+#### Asynchronous processing 
 * RxJava 
 
-### HTTP client 
+#### HTTP client 
 * OkHttp - General HTTP client
 * Retrofit - Web service (esp. REST) client 
 
-### Serialization/deserialization 
+#### Serialization/deserialization 
 * Gson (Google JSON library )
 
-### Testing 
+#### Testing 
 * JUnit 5 - Unit testing 
 
-## RDBMS 
+### RDBMS 
 * SQLite 
 * Apache Derby 
 
-## Version control 
+### Version control 
 * Git 
 * Github service
 
