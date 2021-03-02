@@ -1,10 +1,34 @@
-# Skills 
 
-### Programming 
+# The Beginning to my Game Design Journey
+
+# Unreal Engine 
+
+### [RPGame](https://github.com/apreston26/RPGame)
+This is my most recent project using the previously learned skills from my past two projects seen below to make an actual level with enemies and graphics including working fog. I am currently finishing up the boss fight 
+
+### [Rolling Ball Game](https://github.com/apreston26/RollingBall)
+This is a simple game where you are a rolling ball gathering collectibles that has both sticky and bouncy parts of the floor to make a tad more challenging
+
+### [MyFirstFPS](https://github.com/apreston26/MyFirstFPS)
+MyFirstFPS was my very first introduction to the unreal engine and where I learned all the basics like moving objects that are considered enemies that change color and eventually explode which then lead to them exploding
+
+# C++
+
+* [BullCowGame](https://github.com/apreston26/BullCowGame)
+This is a very simple text-based game where the player has to guess the isogram which is a word with no repeating letters. As you guess words the game gives the player either bulls or cows. If you get a bull you have a correct letter and in the right position and if you get a cow you have a correct letter but in the wrong position.
+
+* [TripleX](https://github.com/apreston26/TripleX)
+Again another very simple text-based game where the player has to guess three numbers in order to crack the lock using simple mathematics and progress to the next lock.
+
+# Programming Experience 
 * Java 
     * Java 1.8/8 used in Android apps and Spring Boot server applications.
     * Java 11 used in Java desktop applications.
 * SQL 
+* C++ 
+* C
+
+# Skills 
 
 ### Markup 
 * XML 
@@ -71,13 +95,6 @@ Also in this program all of the students are assigned into groups to work on the
 ### [Wireframe](Cwireframe.md)
 ### [ERD](Cerd.md)
 
-# The Beginning to my C++ Journey 
-
-### [BullCowGame](https://github.com/apreston26/BullCowGame)
-This is a very simple text-based game where the player has to guess the isogram which is a word with no repeating letters. As you guess words the game gives the player either bulls or cows. If you get a bull you have a correct letter and in the right position and if you get a cow you have a correct letter but in the wrong position.
-
-### [TripleX](https://github.com/apreston26/TripleX)
-Again another very simple text-based game where the player has to guess three numbers in order to crack the lock using simple mathematics and progress to the next lock.
 
 # Miscellaneous Coding Achievements 
 
